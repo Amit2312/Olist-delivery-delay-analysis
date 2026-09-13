@@ -10,7 +10,7 @@ An end-to-end SQL + Python analysis of ~100K orders from the Olist Brazilian e-c
 
 - **PostgreSQL** (via TablePlus) — data extraction and transformation
 - **Python** (pandas, seaborn, statsmodels) — analysis, statistical testing, and visualization in Google Colab
-- **Dataset:** https://drive.google.com/open?id=1gPgsaNSbo6BYsKo5evwp_wX7fpL5gqDC&usp=drive_fs
+- **Dataset:** https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 ## Repository Structure
 
 ```

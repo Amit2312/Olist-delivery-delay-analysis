@@ -1,6 +1,3 @@
-# Olist-delivery-delay-analysis
-Does late delivery hurt customer satisfaction and repeat purchases?
-
 # Delivery Delays & Customer Behavior: Olist E-Commerce Analysis
 
 **Does late delivery hurt customer satisfaction and repeat purchases?**
@@ -31,7 +28,7 @@ An end-to-end SQL + Python analysis of ~100K orders from the Olist Brazilian e-c
 │   ├── q5_num_eligible_delay_cust.sql
 │   └── q5_num_all_delay_cust.sql
 ├── sql_result/                         
-└── Superstore_Project.ipynb            # full analysis, charts, interpretation
+└── Olist_Project.ipynb            # full analysis, charts, interpretation
 ```
 
 

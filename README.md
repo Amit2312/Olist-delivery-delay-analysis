@@ -58,7 +58,7 @@ A few judgment calls that shaped the analysis, documented here rather than burie
 
 1. Load the Olist CSVs into PostgreSQL under a `target` schema — see `schema.sql`.
 2. Run each file in `sql_code/`; filenames match their corresponding CSV export in `sql_result/`.
-3. Open `Superstore_Project.ipynb` in Colab/Jupyter, point the `pd.read_csv` paths at your local `sql_result/` folder, and run top to bottom.
+3. Open `Olist_Project.ipynb` in Colab/Jupyter, point the `pd.read_csv` paths at your local `sql_result/` folder, and run top to bottom.
 
 ## Limitations
 
